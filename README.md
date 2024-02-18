@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/youtube/channel/subscribers/UCJPKLdfgL67m9pIMbxB_DaA?label=LauraOnetwo&logo=youtube&style=for-the-badge" alt="YouTube Badge"/> 
         </a>
         <a href="https://twitter.com/LauraWangQiu" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/LauraWangQiu?color=blue&label=lauraonetwo1&logo=twitter&style=for-the-badge" alt="Twitter Badge"/> 
+        <img src="https://img.shields.io/twitter/follow/LauraWangQiu?color=blue&label=LauraWangQiu&logo=twitter&style=for-the-badge" alt="Twitter Badge"/> 
     </a>
     </div>
 </div>
