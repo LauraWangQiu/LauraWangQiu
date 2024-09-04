@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning Videogames Development in <b>Complutense University of Madrid</b>
 - 📫 How to reach me: **lauraonetwo443@gmail.com**
-- 🗂️ Visit my portfolio: **🚧In Maintenance🚧**
+- 🗂️ Visit my portfolio: https://lauraonetwo.com/
 ---
 <p align="center" style="font-family: Arial;"><b>🌐 LANGUAGES 🌐</b></p>
 
